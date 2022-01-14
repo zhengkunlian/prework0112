@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/07elenazheng-naver.com/Desktop/iOS%20app%20course%20/prework/preworkrecord.html' />
+<img src='https://recordit.co/Ctx0Vl3WB2' />
 
 GIF created with [recordit] https://recordit.co/.
 
