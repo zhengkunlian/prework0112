@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='file:///Users/07elenazheng-naver.com/Desktop/iOS%20app%20course%20/prework/preworkrecord.html' />
 
-
-
 GIF created with [recordit] https://recordit.co/.
 
 ## Notes
